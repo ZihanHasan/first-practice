@@ -7,6 +7,7 @@ h1 {
     font-size: 70px;
     font-weight: 700;
     line-height: 50%;
+    color: rgb(105, 99, 99);
 }
 
 .flex {
@@ -36,7 +37,7 @@ p {
     color: rgb(255, 136, 0);
 }
 
-.order {
+.button {
     text-decoration: none;
     background-image: linear-gradient(rgb(240, 100, 19), rgba(255, 136, 0, 0.904));
     font-weight: 700;
@@ -52,4 +53,20 @@ p {
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.img2 {
+    margin: 0;
+    padding-top: 0px;
+    width: 50%;
+}
+
+.para2 {
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 80px;
+    width: 50%;
+    text-align: justify;
+
+
 }
