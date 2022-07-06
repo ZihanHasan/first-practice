@@ -62,11 +62,42 @@ p {
 }
 
 .para2 {
-    margin-top: 50px;
+    margin-top: 70px;
     margin-left: 200px;
-    padding: 80px;
+    padding: 90px;
     width: 50%;
     text-align: justify;
 
 
+}
+
+.small-part {
+    text-align: center;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.border {
+    border: 2px rgb(17, 17, 255) solid;
+    border-radius: 10px;
+    padding-bottom: 0%;
+}
+
+
+.shadow {
+    box-shadow: 8px 8px 60px rgb(124, 119, 111);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 35px;
+    text-align: justify;
+    border-radius: 30px;
+
+
+}
+
+.margin {
+    margin-right: 18%;
 }
