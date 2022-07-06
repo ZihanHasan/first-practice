@@ -78,18 +78,18 @@ p {
 }
 
 .border {
-    border: 2px rgb(17, 17, 255) solid;
-    border-radius: 10px;
+    border: 20px rgb(67, 192, 250) solid;
+    border-radius: 20px;
     padding-bottom: 0%;
 }
 
 
 .shadow {
-    box-shadow: 8px 8px 60px rgb(124, 119, 111);
+    box-shadow: 8px 8px 40px rgb(150, 146, 140);
     width: 50%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 7%;
     margin-top: 5%;
     padding: 35px;
     text-align: justify;
@@ -100,4 +100,51 @@ p {
 
 .margin {
     margin-right: 18%;
+}
+
+h2 {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.shadow-1 {
+    display: flex;
+    margin-bottom: 6%;
+    width: 89%;
+    box-shadow: 10px 10px 40px rgb(150, 146, 140);
+    border-radius: 20px;
+    margin-left: 6%;
+
+
+}
+
+.number {
+    padding-top: 8px;
+    padding-left: 180px;
+    padding-right: 180px;
+    text-align: center;
+}
+
+.padding {}
+
+.bg {
+    background-color: rgb(2, 2, 32);
+
+    text-align: center;
+
+}
+
+.orange {
+    color: rgb(255, 115, 0);
+}
+
+.silver {
+    color: rgb(105, 99, 99);
+    padding-top: 50px;
+}
+
+.white {
+    color: aqua;
+    padding-bottom: 100px;
+
 }
